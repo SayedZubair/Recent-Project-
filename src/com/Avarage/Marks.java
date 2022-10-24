@@ -1,2 +1,6 @@
-package com.Avarage;public class Marks {
+package com.Avarage;
+
+abstract public class Marks {
+
+    abstract double getPercentage();
 }
